@@ -12,3 +12,4 @@ You can click the Preview link to take a look at your changes.
 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=s21v1d9p&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=s21v1d9p.s21v1d9p)
