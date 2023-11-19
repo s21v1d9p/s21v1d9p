@@ -25,7 +25,7 @@
 ## Experience  
 
 **IGNITE Internship** @ LTIMindtree
-_Jan 2023 - Present_
+_Feb 2023 - May 2023_
 
 - Comprehensive Java, algorithms, web design internship program
 
